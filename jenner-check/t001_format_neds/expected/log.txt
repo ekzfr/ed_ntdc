@@ -1,0 +1,48 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T043649Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: PROC FORMAT library=WORK
+
+NOTE: FORMAT f_DOMAIN_CASES defined (4 ranges).
+NOTE: FORMAT f_DEN002_cat defined (2 ranges).
+NOTE: FORMAT f_AGE_cat defined (4 ranges).
+NOTE: FORMAT f_SEX_cat defined (2 ranges).
+NOTE: FORMAT f_PAY_cat defined (4 ranges).
+NOTE: FORMAT f_PL_NCHS_cat defined (2 ranges).
+NOTE: FORMAT f_RACE_cat defined (4 ranges).
+NOTE: FORMAT f_ZIPINC_cat defined (4 ranges).
+NOTE: FORMAT f_HOSP_REGION_cat defined (4 ranges).
+NOTE: FORMAT f_DEN defined (4 ranges).
+NOTE: FORMAT f_MUS defined (4 ranges).
+NOTE: FORMAT f_NVS defined (4 ranges).
+NOTE: FORMAT f_DOMAIN_M defined (2 ranges).
+NOTE: FORMAT f_DOMAIN_N defined (2 ranges).
+NOTE: PROC FORMAT library=WORK
+
+NOTE: FORMAT f_AGE defined (4 ranges).
+NOTE: FORMAT f_AGE_ahrq defined (5 ranges).
+NOTE: FORMAT f_AWEEKEND defined (2 ranges).
+NOTE: FORMAT f_DIED_VISIT defined (3 ranges).
+NOTE: FORMAT f_DQTR defined (4 ranges).
+NOTE: FORMAT f_TOTCHG_ED defined (4 ranges).
+NOTE: FORMAT f_RACE defined (6 ranges).
+NOTE: FORMAT f_RACE_ahrq defined (6 ranges).
+NOTE: FORMAT f_RACE_binary defined (6 ranges).
+NOTE: FORMAT f_FEMALE defined (2 ranges).
+NOTE: FORMAT f_DISP_ED defined (9 ranges).
+NOTE: FORMAT f_EDevent defined (6 ranges).
+NOTE: FORMAT f_EDevent_binary defined (6 ranges).
+NOTE: FORMAT f_PAY defined (6 ranges).
+NOTE: FORMAT f_PAY_ahrq defined (6 ranges).
+NOTE: FORMAT f_HOSP_REGION defined (4 ranges).
+NOTE: FORMAT f_HOSP_URCAT defined (8 ranges).
+NOTE: FORMAT f_ZIQ_nine defined (4 ranges).
+NOTE: FORMAT f_ZIQ_zero defined (4 ranges).
+NOTE: FORMAT f_ZIQ defined (4 ranges).
+NOTE: FORMAT f_ZIQ_binary defined (4 ranges).
+NOTE: FORMAT f_DXCCSR defined (4 ranges).
+NOTE: FORMAT f_PL_NCHS defined (6 ranges).
+NOTE: FORMAT f_PL_NCHS_ahrq defined (6 ranges).
+NOTE: FORMAT f_PL_NCHS_binary defined (6 ranges).
+NOTE: FORMAT f_HOSP_CONTROL defined (5 ranges).
+NOTE: FORMAT f_HOSP_CONTROL_grps defined (5 ranges).

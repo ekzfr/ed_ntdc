@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_format_neds",
+  "source_file": "format_neds.sas",
+  "source_blob_sha": "52ecf59db7d01c40b5b53908e67b0c3e86a2d11b",
+  "source_commit": "8575a81186e5c983eba2b513941a01d4a68b4ee2",
+  "notes": "Byte-identical copy of the repo's PROC FORMAT library (37 value formats used to label NEDS/NHAMCS analytic variables). Runs unmodified; no input data needed. autoexec only caps obs=100."
+}

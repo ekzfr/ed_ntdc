@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_thesis_pipeline",
+  "source_file": "kazfrick-thesis-program_2021_v7.sas",
+  "source_blob_sha": "ddc3b028a660887668500dea55b4f40197a46337",
+  "source_commit": "8575a81186e5c983eba2b513941a01d4a68b4ee2",
+  "notes": "The author's NEDS 2021 analytic pipeline (trim DATA steps, PROC SQL full join on KEY_ED, one-to-many hospital merge, domain/recode DATA steps, survey-weighted PROC SURVEYFREQ). Source reads AHRQ HCUP NEDS tables via libname (DUA-only) and writes ODS PDF + a permanent library on the author's machine; here three small NEDS-shaped WORK tables stand in for the licensed sources, formats are inlined, and machine-specific ODS/libname paths are dropped. The DOMAIN_CASES assignment (originally a bare nested IF-THEN) is expressed with DO/END; logic is unchanged."
+}

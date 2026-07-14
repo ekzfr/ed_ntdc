@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-14T09:56:17+00:00",
+  "_captured_run_id": "r_c9f8031e7a9e44c39d7db153f9f2a39c",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC FORMAT library=WORK",
+    "NOTE: FORMAT f_DOMAIN_CASES defined (4 ranges).",
+    "NOTE: FORMAT f_AGE_cat defined (4 ranges).",
+    "NOTE: FORMAT f_HOSP_CONTROL_grps defined (5 ranges)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
